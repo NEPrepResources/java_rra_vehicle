@@ -5,7 +5,5 @@ spring:
     restart:
       enabled: true
 
-
-
 server:
-  port: 8800
+  port: 8844

@@ -13,7 +13,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
         info = @Info(
                 contact = @Contact(
                         name = "Vehicle Management",
-                        email = "niyitegekatresor@gmail.com",
+                        email = "giselemigisha53@gmail.com",
                         url = "https://www.eucl.com"
                 ),
                 description = " backend apis for vehicle management",
@@ -27,7 +27,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
         ), servers = {
         @Server(
                 description = "Local deployment  environment",
-                url = "http://localhost:8800"
+                url = "http://localhost:8844"
         ),
 }
 )
